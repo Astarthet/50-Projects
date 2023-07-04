@@ -10,7 +10,7 @@ Welcome to the repository of our upcoming projects! Here, we have an exciting li
 
 1. Count Clicks: https://github.com/Astarthet/50-Projects/tree/main/2.%20Side%20Menu
 
-![Click Counter Screenshot](/1.%20Count%20Clicks/src/images/Capture.png)
+![Click Counter Screenshot](/2.%20Side%20Menu/src/images/capture1.png)
 ...
 
 And many more exciting projects to come!
