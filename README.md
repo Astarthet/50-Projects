@@ -5,7 +5,10 @@ Welcome to the repository of our upcoming projects! Here, we have an exciting li
 ## Project List
 
 1. Count Clicks: https://github.com/Astarthet/50-Projects/tree/main/1.%20Count%20Clicks
+   
    ![Click Counter Screenshot](/1.%20Count%20Clicks/src/images/Capture.png)
+
+
 ...
 
 And many more exciting projects to come!
