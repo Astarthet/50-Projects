@@ -14,7 +14,3 @@ This is a simple click counter web application developed using HTML, CSS, and Ja
 
 ## Usage
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/tu-nombre-de-usuario/click-counter.git
