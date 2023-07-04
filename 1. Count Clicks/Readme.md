@@ -1,6 +1,7 @@
 # Click Counter
 
 ![Click Counter Screenshot](/1.%20Count%20Clicks/src/images/Capture.png)
+
 ![Click Counter Screenshot](/1.%20Count%20Clicks/src/images/Capture1.png)
 
 This is a simple click counter web application developed using HTML, CSS, and JavaScript. The project utilizes the powerful SweetAlert2 library, which can be found at [https://sweetalert2.github.io/](https://sweetalert2.github.io/).
