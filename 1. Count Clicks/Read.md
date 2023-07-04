@@ -14,3 +14,10 @@ This is a simple click counter web application developed using HTML, CSS, and Ja
 
 ## Usage
 
+<<<<<<< HEAD
+=======
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Astarthet/50-Projects/tree/main
+>>>>>>> 2a85cb353353393e01a6329140ad687613f8ca46
