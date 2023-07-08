@@ -14,7 +14,7 @@ Welcome to the repository of our upcoming projects! Here, we have an exciting li
 
 3. Key Reader:
 
-![Click Counter Screenshot]()
+![Click Counter Screenshot](/3.%20Key%20Reader/src/images/captures.png)
 
 ...
 
