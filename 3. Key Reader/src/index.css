@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("./images/BackGround.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    font-weight: 200;
+    font-size: 90px;
+}
+
+.containerKeys {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(240, 248, 255, 0.63);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+}
+
+button{
+    padding: 2.2vw;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.prueba {
+    background-color: rgba(0, 0, 0, 0.267);
+}

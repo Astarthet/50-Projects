@@ -8,9 +8,13 @@ Welcome to the repository of our upcoming projects! Here, we have an exciting li
 
 ![Click Counter Screenshot](/1.%20Count%20Clicks/src/images/Capture.png)
 
-1. Nav-Bar: https://github.com/Astarthet/50-Projects/tree/main/2.%20Side%20Menu
+2. Nav-Bar: https://github.com/Astarthet/50-Projects/tree/main/2.%20Side%20Menu
 
 ![Click Counter Screenshot](/2.%20Side%20Menu/src/images/capture1.png)
+
+3. Key Reader:
+
+![Click Counter Screenshot]()
 
 ...
 
